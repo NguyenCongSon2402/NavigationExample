@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_text_size">18sp</dimen>
+    <dimen name="logo_size">64dp</dimen>
+    <dimen name="logo_size_32">32dp</dimen>
+    <dimen name="logo_size_24">24dp</dimen>
+    <dimen name="neg_left_margin_24">-24dp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="done_width">160dp</dimen>
+    <dimen name="done_height">160dp</dimen>
+    <dimen name="margin_64">64dp</dimen>
+    <dimen name="card_avatar_height">60dp</dimen>
+    <dimen name="card_avatar_width">60dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_corner_radius_16">16dp</dimen>
+
+    <dimen name="card_avatar_layout_width">86dp</dimen>
+    <dimen name="card_avatar_layout_height">86dp</dimen>
+    <dimen name="card_avatar_radius">86dp</dimen>
+
+    <!-- font size options -->
+    <dimen name="font_small">14sp</dimen>
+    <dimen name="font_medium">18sp</dimen>
+    <dimen name="font_large">22sp</dimen>
+
+    <dimen name="card_size_60">60dp</dimen>
+    <dimen name="card_cornner_radius_8">8dp</dimen>
+    <dimen name="card_avatar_picker_size">86dp</dimen>
+    <dimen name="card_avatar_picker_radius">86dp</dimen>
+
+</resources>
